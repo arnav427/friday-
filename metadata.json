@@ -1,0 +1,6 @@
+{
+  "name": "FRIDAY - AI Study Companion",
+  "description": "Intelligent, source-grounded AI study companion and adaptive assessment engine for school (Class 6-12) and competitive exam aspirants (JEE, NEET, UPSC, GATE, CAT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
